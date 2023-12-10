@@ -1,22 +1,23 @@
 # Project 1. Хакатон по кредитному скорингу
 
 ## Оглавление
-[1. Описание проекта.](https://github.com/eug/data_science/tree/main/project_0/README.md#Описание-проекта)
+[1. Описание проекта.](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/eug/data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Какой-кейс-решаем)
 
-[3. Краткая информайия о данных.](https://github.com/eug/data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информайия о данных.](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом.](https://github.com/eug/data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом.](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Этапы-работы-над-проектом)
 
-[5. Результат.](https://github.com/eug/data_science/tree/main/project_0/README.md#Результат)
+[5. Результат.](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Результат)
 
-[6. Выводы](https://github.com/eug/data_science/tree/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Выводы)
 
 ### Описание проекта
-пишите описание
+Проект по кредитному скоррингу для компании Мандарин предусматривает разработку сервиса(создание ML-модели) прескорринга клиентов с функционалом дополнительной клиентской аналитики 
+для повышения конверсии бизнеса.
 
-:arrow_up:[к оглавлению](https://github.com/eug/data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -36,19 +37,19 @@
 
 ...
 
-:arrow_up:[к оглавлению](https://github.com/eugenekartvelishvili/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Оглавление)
 
 ### Этапы работы над проектом:
 ...
 
-:arrow_up:[к оглавлению](https://github.com/eugenekartvelishvili/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Оглавление)
 
 ### Результаты:
 ...
 
-:arrow_up:[к оглавлению](https://github.com/eugenekartvelishvili/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Оглавление)
 
 ### Выводы:
 ...
 
-:arrow_up:[к оглавлению](https://github.com/eugenekartvelishvili/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AkininD/Hakaton_Mandarin/blob/main/hakaton/README.md#Оглавление)
